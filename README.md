@@ -1,2 +1,2 @@
-# COMPSAR
-compsar landing page project
+# LandingPage
+ Compsar landing page
